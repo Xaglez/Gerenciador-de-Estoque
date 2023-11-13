@@ -1,0 +1,25 @@
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\Gerenciador de estoque.exe.config
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\Gerenciador de estoque.exe
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\Gerenciador de estoque.pdb
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador de estoque.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador_de_estoque.Properties.Resources.resources
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador de estoque.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador de estoque.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador de estoque.exe
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador de estoque.pdb
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador_de_estoque.F_login.resources
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador_de_estoque.F_Principal.resources
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador_de_estoque.F_Estoque.resources
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador_de_estoque.F_Clientes.resources
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\EntityFramework.dll
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\System.Data.SQLite.dll
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\EntityFramework.xml
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\System.Data.SQLite.xml
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador de estoque.csproj.CopyComplete
+C:\Users\paulo\source\repos\Gerenciador de estoque\obj\Debug\Gerenciador_de_estoque.F_Cadastro.resources
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\x86\sqlite3.dll
+C:\Users\paulo\source\repos\Gerenciador de estoque\bin\Debug\x64\sqlite3.dll
